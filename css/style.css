@@ -1,0 +1,147 @@
+html {
+  font-family: '微软雅黑';
+  font-size: 16px;
+  color: #274665;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body{
+  background: #f5f5f5;
+}
+.container {
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1000px;
+  background: #fff;
+  margin-bottom: 40px;
+  height: 2550px;
+}
+/*左侧*/
+.left{
+  background: #254665;
+  width: 265px;
+  height: 2550px;
+  float: left;
+}
+.headerimg{
+  padding:45px 0 55px 25px;
+}
+.headerimg img{
+  border: 5px solid #fff;
+}
+.info{
+  padding-bottom: 130px;
+}
+.info ul li{
+  list-style: none;
+  color: #fff;
+  line-height: 80px;
+}
+.info ul li img{
+  margin:5px 10px -8px 0;
+}
+.skill{
+  padding-bottom: 130px;
+}
+.skill ul li{
+  list-style: none;
+  color: #fff;
+  line-height: 30px;
+  border-bottom: 13px solid #92a4b2;
+}
+.span7{
+  width: 70%;
+}
+.span5{
+  width: 50%;
+}
+.span6{
+  width: 60%;
+}
+.span8{
+  width: 80%;
+}
+.span9{
+  width: 90%;
+}
+.hobby h3{
+  font-size: 20px;
+  color: #92a2b1;
+}
+.hobby ul li{
+  list-style: none;
+  color: #92a2b1;
+  width: 120px;
+  float: left;
+  margin-left: -20px;
+}
+.hobby ul li img{
+  padding-left: 30px;
+}
+.hobby ul li p{
+  margin: 10px 0 10px;
+  text-align: center;
+}
+.myself{
+  color: #fff;
+  line-height: 28px;
+  padding: 0 35px 130px 35px;
+}
+.myself h3{
+  font-size: 20px;
+  color: #92a2b1;
+}
+.skill h3{
+  font-size: 20px;
+  color: #92a2b1;
+}
+
+/*右侧*/
+.right{
+  width: 655px;
+  margin-left: 265px;
+  padding: 0 40px;
+}
+.name{
+  padding:45px 0 55px 0;
+}
+.name span{
+  font-size: 30px;
+  color: #274663;
+  padding: 0 0 10px 0;
+  font-weight: 600;
+}
+.name p{
+  font-size: 20px;
+  margin-top: 10px;
+}
+.edu img{
+  float: left;
+  margin-top: -5px;
+}
+.title{
+  border-bottom:2px solid #254665;
+  margin-left: 60px;
+  color: #274665;
+  font-size: 22px;
+  font-weight: 600;
+}
+.list span{
+  padding-right: 25px;
+}
+.list li{
+  line-height: 35px;
+}
+.ptop40{
+  padding-top: 40px;
+}
+.list-title{
+  padding:5px 0;
+  font-size: 18px;
+  font-weight: 600;
+}
+.summery{
+  padding: 5px 0;
+  line-height: 30px;
+}
